@@ -1,89 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d4a1f3-c665-4471-a27c-1314622e89b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Kotlin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.attach_pid41611" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinUdemyCourse.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/ArrayDemoKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/ArrayListDemoKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/BreakAndContinueKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/CommnetsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/ConvertDataTypeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/DataTypesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/FindMyAgeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/FirstAppKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/HashMapKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/IfElseIfKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/IfElseKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/IncreamentAndDecrementKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/InputsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/LogicConditionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/META-INF/KotlinUdemyCourse.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/NestedForKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/NestedIfKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/NullSafetyKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/OperationKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/PrioritesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/SimpleForKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/SimpleIfKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/StringDemoKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/StringKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/WhenMenuKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinUdemyCourse/WhileDoLoopKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayDemo.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayListDemo.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BreakAndContinue.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarClass.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassInheritance.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collect.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Commnets.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConstructorClass.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConvertDataType.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enumerations.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExtensionFunction.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindMyAge.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstApp.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctionOverload.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctionPolymorphism.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctionSimple.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generic.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMap.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HighOrderFunction.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfElse.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfElseIf.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ImprovePetsApp.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IncreamentAndDecrement.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inputs.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lambda.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LogicCondition.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedClass.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedFor.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedIf.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NullSafety.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operation.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Overrriding.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Priorites.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scope.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sets.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimpleAbstract.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimpleFor.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimpleIf.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringDemo.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhenMenu.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileDoLoop.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/op.kt" beforeDir="false" />
-    </list>
+    <list default="true" id="95d4a1f3-c665-4471-a27c-1314622e89b8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,6 +9,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="25PPK8v6sj04yztxL92A9n5oeH3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -104,6 +25,17 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Kotlin-Basic" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Kotlin-Basic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Kotlin-Basic" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
