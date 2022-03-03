@@ -7,4 +7,8 @@ package data
 
 class User(var userNameParam: String, var passswordParam: String) {
 
+    override fun toString(): String {
+        return "USer with username = $userNameParam"
+    }
+
 }
