@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2feb08a-8c4d-4db5-a4f0-ce66c8a45a4a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/androidTest/java/com/gusrylmubarok/findmyage/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/java/com/gusrylmubarok/findmyage/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/app/src/test/java/com/gusrylmubarok/findmyage/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/FindMyAge/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/androidTest/java/com/gusrylmubarok/happybithday/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/java/com/gusrylmubarok/happybithday/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/drawable/androidparty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/app/src/test/java/com/gusrylmubarok/happybithday/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/HappyBirthday/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/androidTest/java/com/gusrylmubarok/myfirstapp/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/java/com/gusrylmubarok/myfirstapp/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/app/src/test/java/com/gusrylmubarok/myfirstapp/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/MyFirstApp/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/.idea/render.experimental.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/androidTest/java/com/gusrylmubarok/startup/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/java/com/gusrylmubarok/startup/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/app/src/test/java/com/gusrylmubarok/startup/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Startup/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/.idea/render.experimental.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/androidTest/java/com/gusrylmubarok/startup/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/java/com/gusrylmubarok/startup/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/app/src/test/java/com/gusrylmubarok/startup/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/Tic Tac Toy Game/Tic Tac Toy Local/Startup/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/classes/kotlin/main/META-INF/Kotlin-Coroutine.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/classes/kotlin/main/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/classes/kotlin/test/META-INF/Kotlin-Coroutine.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/classes/kotlin/test/ThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/reports/tests/test/classes/ThreadTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/test-results/test/TEST-ThreadTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/src/test/kotlin/CoroutineTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/src/test/kotlin/ExecutorServiceTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/src/test/kotlin/FutureTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/src/test/kotlin/SuspendFunctionTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Coroutine/src/test/kotlin/ThreadTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Collection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Collection/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Collection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Collection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Collection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Collection/Kotlin-Collection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Collection/src/app/List.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/Kotlin-Example-Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/AddTwoIntegersKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/ComputeQuotientAndReminderKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/Decision-Making-Loop/CheckVowelOrConsonantKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/FindASCIIvalueOfACharacterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/Functions/ArmstrongNumbersBetweenTwoIntegersKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/Functions/PrimeNumbersBetweenTwoIntegersKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/META-INF/Kotlin-Example-Code.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/MultiplyTwoFloatingPointNumbersKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/PrintAnIntegerKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/SwapTwoNumbersKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/intro/CheckWhetherANumberIsEvenOrOddKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/intro/FindTheFrrequencyOfCharacterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/intro/RemoveWhiteSpaceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/out/production/Kotlin-Example-Code/intro/RoundNumberUsingFormatKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Decision-Making-Loop/CheckVowelOrConsonant.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/ArmstrongNumbersBetweenTwoIntegers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/CalculatePower.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/ConvertBinarytoDecimal.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/ConvertBinarytoOctal.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/ConvertDecimaltoBinary.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/ConvertDecimaltoOctal.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/ConvertOctaltoBinary.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/ConvertOctaltoDecimal.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/Factorial.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/GDC.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/IntegerasAsumofTwoPrimeNumbers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/PrimeNumbersBetweenTwoIntegers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/ReverseSentence.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/Functions/SumofNaturalNumbersUsingRecursion.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/intro/AddTwoIntegers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/intro/CheckWhetherANumberIsEvenOrOdd.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/intro/ComputeQuotientAndReminder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/intro/FindASCIIvalueOfACharacter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/intro/FindTheFrrequencyOfCharacter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/intro/MultiplyTwoFloatingPointNumbers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/intro/PrintAnInteger.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/intro/RemoveWhiteSpace.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/intro/RoundNumberUsingFormat.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Example-Code/src/intro/SwapTwoNumbers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/Kotlin-Generic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/app/Comparable.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/app/Contravariant.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/app/Covariant.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/app/GenericConstraint.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/app/GnericClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/app/Invariant.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/app/StarProjection.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/app/TypeErasure.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/app/TypeProjection.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/data/Contravariant.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/data/Employee.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/data/Fruit.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/data/Function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-Generic/src/data/MyData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/.idea/dictionaries/ophthalmologist.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/Kotlin-OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/META-INF/Kotlin-OOP.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/AnyClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/ConstructorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/EqualsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/FunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/FunctionOverloadingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/GetterSetterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/HashCodeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/InheritanceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/ObjectKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/PropertiesConstructorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/PropertiesOverrideingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/SuperKeywordKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/ThisKeywoardKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/ToStringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/app/TypeCheckKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Country.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/ExecutiveCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/HandPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Laptop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/PremiumCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Smartphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/SuperManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/out/production/Kotlin-OOP/data/VicePresident.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/AnonymousClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/AnyClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/DataClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/EnumClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/Equals.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/Function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/FunctionOverloading.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/GetterSetter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/HashCode.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/Inheritance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/InnerClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/Interface.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/LateInit.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/PropertiesConstructor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/PropertiesOverrideing.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/SuperKeyword.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/ThisKeywoard.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/ToString.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/TypeCheck.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/constructor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/app/object.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Action.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Address.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Animal.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Boss.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Car.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Company.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Customer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Employee.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Gender.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Go.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Interaction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Laptop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Location.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Note.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Operation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Person.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Product.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Student.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Teacher.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Television.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/User.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/Utilities.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-OOP/src/data/data.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.4/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.4/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/7.4/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/main/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/main/META-INF/Kotlin-UnitTest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/main/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/main/model/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/main/repository/PersonRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/main/service/PersonService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/CalculatorTest$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/CalculatorTest$inlined$sam$i$org_junit_jupiter_api_function_Executable$0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/CalculatorTest$testDivideFailed$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/ConditionalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/InformationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/META-INF/Kotlin-UnitTest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/MockTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/NestedTest$MyNestedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/NestedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/OrderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/ParentCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/RandomCalculatorTest$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/RandomCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/SampleIntegrationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/SlowTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/generator/SimpleDisplayNameGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/resolver/RandomParameterResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/service/PersonServiceTest$inlined$sam$i$org_junit_jupiter_api_function_Executable$0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/service/PersonServiceTest$testPersonIdIsNotValid$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/service/PersonServiceTest$testPersonNotFound$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/service/PersonServiceTest$testRegisterPersonNameIsBlank$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/classes/kotlin/test/service/PersonServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/reports/tests/test/classes/service.PersonServiceTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/reports/tests/test/packages/service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/test-results/test/TEST-service.PersonServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/main/kotlin/Calculator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/main/kotlin/model/Person.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/main/kotlin/repository/PersonRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/main/kotlin/service/PersonService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/CalculatorTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/ConditionalTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/InformationalTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/MockTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/NestedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/OrderTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/ParentCalculatorTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/RandomCalculatorTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/SampleIntegrationTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/SlowTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/generator/SimpleDisplayNameGenerator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/resolver/RandomParameterResolver.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin-UnitTest/src/test/kotlin/service/PersonServiceTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/.idea/Kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/.attach_pid41611" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/ArrayDemo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/ArrayListDemo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/BreakAndContinue.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Car.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/CarClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/ClassInheritance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Collect.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Collection.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Commnets.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/ConstructorClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/ConvertDataType.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/DataTypes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Enumerations.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/ExtensionFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/FindMyAge.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/FirstApp.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/FunctionOverload.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/FunctionPolymorphism.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/FunctionSimple.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Generic.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/HashMap.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/HighOrderFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/IfElse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/IfElseIf.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/ImprovePetsApp.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/IncreamentAndDecrement.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Inputs.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/KotlinUdemyCourse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Lambda.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/LogicCondition.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/NestedClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/NestedFor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/NestedIf.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/NullSafety.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Operation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Overrriding.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Priorites.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Scope.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Sets.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/SimpleAbstract.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/SimpleFor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/SimpleIf.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/Singleton.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/String.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/StringDemo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/TryCatch.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/WhenMenu.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/WhileDoLoop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-Fundamental/Kotlin/src/Kotlin-Basic/op.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-UnitTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin-UnitTest/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="s9xriton" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CjcXHjKekOBOU2SNJSFXtQnmGS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/gusrylmubarok/Workspaces/myproject/ResearchProject/cargotracker-ddd-java/cargotracker-jakarta-enterprise/src/main/java/com/gusrylmubarok/tracking"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/gusrylmubarok/tracking" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/gusrylmubarok/routing" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/gusrylmubarok/handling" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2feb08a-8c4d-4db5-a4f0-ce66c8a45a4a" name="Changes" comment="" />
+      <created>1659319474546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659319474546</updated>
+    </task>
+    <servers />
+  </component>
+</project>
