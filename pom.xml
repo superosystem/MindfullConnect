@@ -6,16 +6,7 @@
 
 	<modules>
 		<module>cargotracker-bookingms</module>
-		<module>cargotracker-rabbitmqadaptor</module>
 	</modules>
-
-	<developers>
-		<developer>
-			<name>Agus S. Mubarok</name>
-			<email>gusrylmubarok@gmail.com</email>
-			<organization>orbitprogram</organization>
-		</developer>
-	</developers>
 
 	<licenses>
 		<license>
