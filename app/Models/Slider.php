@@ -5,15 +5,18 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Address extends Model
+class Slider extends Model
 {
     use HasFactory;
 
     protected $fillable = [
         'name',
-        'address',
-        'city',
-        'disctrict',
-        'id_user'
+        'description',
+        'image',
+        'isActive',
+    ];
+
+    protected $casts = [
+        'isActive' => 'boolean'
     ];
 }

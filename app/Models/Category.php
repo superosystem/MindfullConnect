@@ -5,15 +5,19 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Address extends Model
+class Category extends Model
 {
     use HasFactory;
 
     protected $fillable = [
         'name',
-        'address',
-        'city',
-        'disctrict',
-        'id_user'
+        'description',
+        'image',
+        'isActive',
+        'id_parent'
+    ];
+
+    protected $casts = [
+        'isActive' => 'boolean'
     ];
 }

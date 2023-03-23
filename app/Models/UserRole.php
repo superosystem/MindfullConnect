@@ -5,15 +5,16 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Address extends Model
+class UserRole extends Model
 {
     use HasFactory;
-
+    
     protected $fillable = [
-        'name',
-        'address',
-        'city',
-        'disctrict',
-        'id_user'
+        "id_user",
+        "isAdmin"
+    ];
+
+    protected $casts = [
+        "isAdmin" => "boolean"
     ];
 }
