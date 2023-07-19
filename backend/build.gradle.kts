@@ -46,7 +46,9 @@ dependencies {
     implementation("io.insert-koin:koin-logger-slf4j:$koin_version")
 
     // AWS
-    implementation("com.amazonaws:aws-java-sdk:1.12.506")
+    // implementation("com.amazonaws:aws-java-sdk:1.12.506")
+    // CLOUDINARY
+    implementation("com.cloudinary:kotlin-url-gen:1.6.0")
     implementation("javax.xml.bind:jaxb-api:2.3.1")
 
     testImplementation("io.ktor:ktor-server-tests-jvm:$ktor_version")
