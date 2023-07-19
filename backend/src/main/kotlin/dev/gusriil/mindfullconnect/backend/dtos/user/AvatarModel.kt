@@ -1,0 +1,6 @@
+package dev.gusriil.mindfullconnect.backend.dtos.user
+
+import kotlinx.serialization.Serializable
+
+@Serializable
+data class AvatarModel(var avatarUrl: String?)

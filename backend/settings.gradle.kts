@@ -1,0 +1,1 @@
+rootProject.name = "dev.gusriil.mindfullconnect.backend"
