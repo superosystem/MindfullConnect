@@ -21,6 +21,7 @@ application {
 
 repositories {
     mavenCentral()
+    maven { url = uri("https://maven.pkg.jetbrains.space/public/p/ktor/eap") }
 }
 
 dependencies {
@@ -48,7 +49,8 @@ dependencies {
     // AWS
     // implementation("com.amazonaws:aws-java-sdk:1.12.506")
     // CLOUDINARY
-    implementation("com.cloudinary:kotlin-url-gen:1.6.0")
+    implementation("com.cloudinary:cloudinary-http44:1.33.0")
+    //implementation("com.cloudinary:kotlin-url-gen:1.6.0")
     implementation("javax.xml.bind:jaxb-api:2.3.1")
 
     testImplementation("io.ktor:ktor-server-tests-jvm:$ktor_version")

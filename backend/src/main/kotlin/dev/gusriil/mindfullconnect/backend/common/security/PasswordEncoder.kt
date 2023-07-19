@@ -1,9 +1,15 @@
 package dev.gusriil.mindfullconnect.backend.common.security
 
+import io.ktor.utils.io.core.*
+import java.util.*
+import javax.crypto.Cipher
+import javax.crypto.spec.IvParameterSpec
+import javax.crypto.spec.SecretKeySpec
+
 const val SECRET_KEY = "dSgVkYp3s6v9y/B?"
 const val SECRET_IV = "KaPdSgVkXp2s5v8y"
 
-class Encoder {
+object PasswordEncoder {
     fun String.encryptCBC(): String {
         val iv = IvParameterSpec(SECRET_IV.toByteArray())
         val keySpec = SecretKeySpec(SECRET_KEY.toByteArray(), "AES")
