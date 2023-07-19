@@ -2,7 +2,6 @@ package dev.gusriil.mindfullconnect.backend.common.storage
 
 import com.cloudinary.Cloudinary
 import dev.gusriil.mindfullconnect.backend.infrastructure.Environment
-import io.ktor.server.config.*
 
 class CloudinaryClient() {
     val cloudinary: Cloudinary = Cloudinary(

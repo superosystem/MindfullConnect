@@ -1,0 +1,26 @@
+version: "2.20"
+
+services:
+  web:
+    build: .
+    image: mindfullconnect-server
+    ports:
+      - "8080:8080"
+    depends_on:
+      db:
+        condition: service_healthy
+
+  db:
+    image: mysql:8.0
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: my-secret-pw
+      MYSQL_DATABASE: ${DBNAME}
+      MYSQL_USER: ${DBUSER}
+      MYSQL_PASSWORD: ${DBPASSWORD}
+    ports:
+      - "3306:3306"
+    healthcheck:
+      test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+      interval: 20s
+      retries: 10

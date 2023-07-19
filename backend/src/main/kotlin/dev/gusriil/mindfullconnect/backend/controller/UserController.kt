@@ -105,7 +105,7 @@ class UserController(
     }
 
     private fun getAvatarPresignedUrl(keyName: String): String {
-        val expiration = LocalDateTime.now().plusDays(6)
+        // val expiration = LocalDateTime.now().plusDays(6)
 
         // Generate the URL directly from cloudinary
         val cloudinaryUrl = cloudinaryClient.cloudinary

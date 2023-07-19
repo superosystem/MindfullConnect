@@ -9,7 +9,7 @@ installDistDev:
 installDist:
 	${gradle} clean installDist
 
-installDist:
+buildFatJar:
 	${gradle} clean buildFatJar
 
 

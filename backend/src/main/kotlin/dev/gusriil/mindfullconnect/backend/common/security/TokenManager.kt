@@ -5,7 +5,6 @@ import com.auth0.jwt.JWTVerifier
 import com.auth0.jwt.algorithms.Algorithm
 import dev.gusriil.mindfullconnect.backend.dtos.user.UserCredModel
 import dev.gusriil.mindfullconnect.backend.infrastructure.Environment
-import io.ktor.server.config.*
 import java.time.LocalDate
 import java.time.ZoneId
 import java.util.*
