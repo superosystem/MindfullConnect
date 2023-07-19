@@ -1,3 +1,5 @@
+import org.jetbrains.kotlin.gradle.dsl.KotlinCompile
+
 val ktor_version: String by project
 val kotlin_version: String by project
 val logback_version: String by project
@@ -17,6 +19,14 @@ application {
 
     val isDevelopment: Boolean = project.ext.has("development")
     applicationDefaultJvmArgs = listOf("-Dio.ktor.development=$isDevelopment")
+
+    applicationName = "backend"
+
+    ktor {
+        fatJar {
+            archiveFileName.set("mindfullconnect.jar")
+        }
+    }
 }
 
 repositories {
@@ -47,11 +57,14 @@ dependencies {
     implementation("io.insert-koin:koin-logger-slf4j:$koin_version")
 
     // AWS
-    // implementation("com.amazonaws:aws-java-sdk:1.12.506")
+    //implementation("com.amazonaws:aws-java-sdk:1.12.506")
     // CLOUDINARY
     implementation("com.cloudinary:cloudinary-http44:1.33.0")
     //implementation("com.cloudinary:kotlin-url-gen:1.6.0")
     implementation("javax.xml.bind:jaxb-api:2.3.1")
+
+    // UTILITY
+    implementation("io.github.cdimascio:dotenv-kotlin:6.4.1")
 
     testImplementation("io.ktor:ktor-server-tests-jvm:$ktor_version")
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit:$kotlin_version")

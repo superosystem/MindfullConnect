@@ -9,8 +9,8 @@ import io.ktor.server.config.*
 
 // Service
 class AmazonS3Client(config: HoconApplicationConfig) {
-private val accessKey = config.property("aws.accessKey").getString()
-private val secretKey = config.property("aws.secretKey").getString()
+    private val accessKey = config.property("aws.accessKey").getString()
+    private val secretKey = config.property("aws.secretKey").getString()
 
     var credentials = BasicAWSCredentials(accessKey, secretKey)
 

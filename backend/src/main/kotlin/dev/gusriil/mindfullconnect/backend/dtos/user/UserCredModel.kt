@@ -20,7 +20,8 @@ data class UserCredModel(
         null,
         null,
         null,
-        AvatarModel(null))
+        AvatarModel(null)
+    )
 
     constructor(id: Long, username: String, token: String?, mail: String) : this(
         id,

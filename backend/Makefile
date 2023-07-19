@@ -3,8 +3,14 @@
 ##########################################################################################
 gradle		:=	./gradlew
 
-run:
-	${gradle} clean bootRun
+installDistDev:
+	${gradle} clean installDist -Dio.ktor.development=true
+
+installDist:
+	${gradle} clean installDist
+
+installDist:
+	${gradle} clean buildFatJar
 
 
 ##########################################################################################

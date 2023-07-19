@@ -1,20 +1,23 @@
 package dev.gusriil.mindfullconnect.backend.plugins
 
-import io.ktor.server.routing.*
-import io.ktor.server.response.*
-import io.ktor.server.plugins.statuspages.*
-import io.ktor.http.*
+import dev.gusriil.mindfullconnect.backend.controller.ChatController
+import dev.gusriil.mindfullconnect.backend.controller.PostController
+import dev.gusriil.mindfullconnect.backend.controller.UserController
+import dev.gusriil.mindfullconnect.backend.routing.chatSocket
+import dev.gusriil.mindfullconnect.backend.routing.postRoutes
+import dev.gusriil.mindfullconnect.backend.routing.userRoutes
 import io.ktor.server.application.*
+import io.ktor.server.routing.*
+import org.koin.ktor.ext.inject
 
-fun Application.configureRouting() {
-    install(StatusPages) {
-        exception<Throwable> { call, cause ->
-            call.respondText(text = "500: $cause" , status = HttpStatusCode.InternalServerError)
-        }
-    }
-    routing {
-        get("/") {
-            call.respondText("Hello World!")
-        }
+fun Application.configureRoutingPlugin() {
+    val userController: UserController by inject()
+    val postController: PostController by inject()
+    val roomController: ChatController by inject()
+
+    install(Routing) {
+        userRoutes(userController)
+        postRoutes(postController)
+        chatSocket(roomController)
     }
 }
