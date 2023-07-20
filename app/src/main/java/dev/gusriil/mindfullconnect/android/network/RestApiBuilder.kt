@@ -16,6 +16,7 @@ class RestApiBuilder(
 ) : ApiBuilder() {
 
     private val BASE_URL = "https://localhost:8080"
+
     private val token get() = authToken(am.getToken())
 
     val api: HttpClient = HttpClient(Android) {

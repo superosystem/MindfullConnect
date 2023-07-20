@@ -16,7 +16,9 @@ import io.ktor.serialization.kotlinx.json.json
 class WebSocketBuilder(
     private val am: AccountModule
 ) : ApiBuilder() {
-    private val BASE_URL = "https://localhost:8081"
+
+    private val BASE_URL = "https://localhost:8080"
+
     private val token get() = authToken(am.getToken())
 
     val socket: HttpClient = HttpClient(CIO) {
